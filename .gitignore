@@ -1,3 +1,8 @@
+target-repository-src/*
+!target-repository-src/.gitkeep
+trial*
+output/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
