@@ -4,6 +4,7 @@
 <br>
 <br>
 (English)
+
 - Use OpenAI's API to generate natural language explanations for all files within a given repository and save them in a text file.
 - The resulting text is intended to be used as a coding aid by inputting it into tools like NotebookLM.
 
