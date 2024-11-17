@@ -11,8 +11,8 @@
 
 ### How to use
 - 動作はpython3.12.1で確認しています
-- ` pip install openai`
-- 環境変数"OPENAI_API_KEY"にAPIKEYを設定してください
+- `pip install openai`
+- 環境変数"OPENAI_API_KEY"にAPI KEYを設定してください
 - target-repository-srcに説明させたいリポジトリのソースコードを丸ごとコピーしてください
 - get_explanation_texts.pyでリポジトリのフォルダ構造に沿って説明テキストを書きだします
 - integrate_explanation_files.pyで全テキストを一つのファイルにします
